@@ -6,4 +6,6 @@ A theoretical client website design built on Bootstrap by Traversy Media from yo
 
 I got inspired by the design and spiced it up with some GSAP and ScrollTrigger animations.
 
+[View Live Site (https://bootfront.netlify.app/)
+
 [View my Portofolio (https://brianvergara.netlify.app/)
